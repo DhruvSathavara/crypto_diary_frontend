@@ -6,8 +6,14 @@ CryptoDiary solves this problem by acting as a single source of data where all c
 
 <img width="1466" alt="Screenshot 2025-02-08 at 9 43 47 PM" src="https://github.com/user-attachments/assets/010737ba-4e3b-43a0-81dc-e9bcd70773e5" />
 
+
+
 <img width="1432" alt="Screenshot 2025-02-08 at 9 44 13 PM" src="https://github.com/user-attachments/assets/a0ed3d10-dca3-423b-9e69-6d21dc073288" />
 
+
+
 <img width="1137" alt="Screenshot 2025-02-08 at 9 45 04 PM" src="https://github.com/user-attachments/assets/89e6f97d-2e3d-49bb-a30d-5a36b9d4c32e" />
+
+
 
 
